@@ -13,6 +13,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome)
 * [From Sass to PostCSS](https://tylergaw.com/articles/sass-to-postcss)
 
 ## Talks
+* [First Class Styles](https://www.youtube.com/watch?v=KmtgJ1d4zuY) by Mark Dalgleish @ Front-Trends 2016
 ### Javascript
 * [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts
 
