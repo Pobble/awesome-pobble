@@ -14,12 +14,13 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome)
 ### Product
 * [Product strategy means saying no](https://blog.intercom.com/product-strategy-means-saying-no/) by Des Traynor at Intercom
 * [Rarely say yes to feature requests]( https://blog.intercom.com/rarely-say-yes-to-feature-requests/?utm_medium=email&utm_source=email&utm_campaign=say-no-email) by Des Traynor at Intercom
+* [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html) by Martin Fowler
 
 
 ## Talks
 * [First Class Styles](https://www.youtube.com/watch?v=KmtgJ1d4zuY) by Mark Dalgleish @ Front-Trends 2016
 * [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) by Rich Hickey @ Clojure Conj 2010
-* [BoundedContext in Phoenix](https://www.youtube.com/watch?v=tMO28ar0lW8&t=941s) 
+* [BoundedContext in Phoenix](https://www.youtube.com/watch?v=tMO28ar0lW8&t=941s) by Chris McCord
 ### Javascript
 * [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts
 ### APIs
