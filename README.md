@@ -15,7 +15,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome)
 * [Product strategy means saying no](https://blog.intercom.com/product-strategy-means-saying-no/) by Des Traynor at Intercom
 * [Rarely say yes to feature requests]( https://blog.intercom.com/rarely-say-yes-to-feature-requests/?utm_medium=email&utm_source=email&utm_campaign=say-no-email) by Des Traynor at Intercom
 * [Bounded Context](https://martinfowler.com/bliki/BoundedContext.html) by Martin Fowler
-
+* [GOTO 2014 • Microservices • Martin Fowler](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+* [Mastering Chaos - A Netflix Guide to Microservices](https://www.youtube.com/watch?v=CZ3wIuvmHeM)
 
 ## Talks
 * [First Class Styles](https://www.youtube.com/watch?v=KmtgJ1d4zuY) by Mark Dalgleish @ Front-Trends 2016
