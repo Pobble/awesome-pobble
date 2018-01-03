@@ -26,6 +26,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome)
 * [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) by Philip Roberts
 ### APIs
 * [REST+JSON API Design - Best Practices for Developers](https://www.youtube.com/watch?v=hdSrT4yjS1g) by Les Hazlewood
+* [Turbolinks 5: I Can’t Believe It’s Not Native! (RailsConf 2016)](https://www.youtube.com/watch?v=SWEts0rlezA) by **Sam Stephenson** (Basecamp)
 
 
 ## Resources
